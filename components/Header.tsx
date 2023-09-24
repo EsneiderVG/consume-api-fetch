@@ -40,7 +40,7 @@ export default function Header() {
         >
           <Dropdown.Header>
             <span className="block text-sm">
-              Bonnie Green
+              Neider Caceres
             </span>
             <span className="block truncate text-sm font-medium">
               name@flowbite.com
